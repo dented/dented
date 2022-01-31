@@ -1,4 +1,15 @@
-### Hi there 👋
+## 👋 Hello, Bonjour, 你好, こんにちは 👋
+
+
+### 🌱 I'm currently learning a few languages
+#### Programming
+- Go
+- Swift
+
+
+#### Spoken
+- Cantonese
+- Japanese
 
 <!--
 **dented/dented** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Find Me @
+![https://github.com/dented](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![https://instagram.com/gram.climbs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)

@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Find Me @
-![https://github.com/dented](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![https://instagram.com/gram.climbs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dented)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gram.climbs)

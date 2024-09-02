@@ -6,10 +6,18 @@
 - Go
 - Swift
 
-
 #### Spoken
 - Cantonese
 - Japanese
+
+### I'm experienced in
+#### Programming
+- C#
+- Ruby
+- JavaScript
+- ReactJS/NextJS
+- VueJS/NuxtJS
+- NodeJS
 
 <!--
 **dented/dented** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
